@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Please Install && Start JSON-SERVER First
 
-npm install -g json-server
+npm install -g json-server <br>
 json-server --watch db.json
 
 ## Available Scripts
